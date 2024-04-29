@@ -1,6 +1,6 @@
 // ProxyContract.sol
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.7;
 
 contract ProxyContract {
     address public implementation;
